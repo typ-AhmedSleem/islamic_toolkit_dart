@@ -1,0 +1,14 @@
+name: islamic_toolkit_dart
+description: IslamicToolkit library written in Dart
+version: 1.0.0
+repository: https://github.com/typ-AhmedSleem/islamic_toolkit_dart
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
